@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<widget
+	xmlns="http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id ="com.phonegap.web-resume"
+	version="1.0"
+>
+
+	<name>Trivia</name>
+	<description>
+	Zambies
+	</description>
+	<author href="http://www.mysite.com" email="tinybug17@gmail.com">
+	Destiny Roberts
+	</author>
+
+	<preference name="orientation" value="default"/>
+	<preference name="target-device" value="universal"/>
+	<!-- Custom Icon -->
+	<icon src="imgs/zom.png"/>
+	<icon src="imgs/zom-ldpi.png" gap:platform="android" gap:qualifier = "ldpi"/>
+	<icon sr="imgs/zom-ldpi.png" gap:platform="ios" width="57" height="57"/>
+</widget>
+

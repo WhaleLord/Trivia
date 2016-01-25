@@ -1,0 +1,35 @@
+/*
+	Author:Destiny Roberts
+	Created:01/12/16
+	Updated:01/22/16
+*/
+body{
+	background-color:#4d004c;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	color:#ffe5ff;
+}
+a{
+	color:#59cc33;
+	font-weight:bold;
+	text-decoration:none;
+}
+a:hover{
+	color:#66a329;
+	text-decoration:underline;
+	cursor:pointer;
+}
+img{
+	max-width:100%;
+	width:auto;
+	height:auto;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	box-sizing:border-box;
+}
+h1{
+	font-size:50px;
+}
+form{
+	font-size:18px;
+}
